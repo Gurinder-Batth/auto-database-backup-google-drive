@@ -63,5 +63,3 @@ Save the changes to the cron job file and exit the text editor.
 With these steps completed, your database will be automatically backed up to your Google Drive folder every day. You can check the Google Drive "DatabaseBackups" folder for the backups.
 
 Make sure to monitor your backups and adjust the retention policy as needed to manage storage space efficiently.
-
-
